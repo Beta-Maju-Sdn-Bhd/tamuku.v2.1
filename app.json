@@ -1,0 +1,12 @@
+{
+  "name": "tamuku",
+  "displayName": "tamuku",
+  "expo": {
+    "name": "tamuku",
+    "slug": "tamuku",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

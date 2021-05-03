@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558746490090",
+    "project_id": "tamuku-53697",
+    "storage_bucket": "tamuku-53697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558746490090:android:ea44110a6abd88bb0c7393",
+        "android_client_info": {
+          "package_name": "com.tamuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558746490090-2hfkdnmnu5s6anoa2kb3e9lnnpsbnnve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zqtl6gxyuXqKQDlQ0mR6Z-NRAdvMtVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558746490090-2hfkdnmnu5s6anoa2kb3e9lnnpsbnnve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
